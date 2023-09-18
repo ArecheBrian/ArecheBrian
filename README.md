@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="center">console.log("hello wold  🌎");</h2>
+<h2 align="center"><span color="red">console</span>.log("hello wold  🌎");</h2>
 
 ###
 
